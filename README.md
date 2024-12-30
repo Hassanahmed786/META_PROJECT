@@ -1,6 +1,4 @@
-# META_PROJECT : 
-
-Jewelry Store Webpage Project
+# Jewelry Store Webpage Project
 Welcome to the Jewelry Store Webpage project! This repository houses the source code for an elegant and functional website dedicated to showcasing exquisite jewelry pieces. Whether you're a jewelry enthusiast, a prospective customer, or a developer looking for inspiration, this project has something special to offer.
 
 Features:
